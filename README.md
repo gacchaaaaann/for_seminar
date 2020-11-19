@@ -1,5 +1,7 @@
 # for_seminar
 
+てすてす
+
 ## README.md
 
 これがREADME.mdファイルです．
